@@ -55,15 +55,15 @@ output * bg /home/gabriel/Documents/Wallpaper/Wallpaper_1.png fill
   #First display 4k samsung 
   output HDMI-A-1 {
       resolution 3840x2160@60hz
-      scale 1.25
-      position 0,0 
+      scale 1
+      position 1930,0 
     }
   
   #Benq 1080p 144hz 
   output DP-3 {
     resolution 1920x1080@144hz
     scale 1 
-    position 3840,0 
+    position 0,0 
 
     }
 
